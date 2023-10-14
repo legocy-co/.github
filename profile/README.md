@@ -22,19 +22,11 @@ Our LEGO Marketplace is the perfect platform for sellers to list their LEGO sets
 
 Track your LEGO collection effortlessly with our collection management tools. Catalog, organize, and showcase your LEGO sets, minifigures, and more with detailed information and images.
 
-### 3. Community Forum
-
-Connect with fellow LEGO enthusiasts on our community forum. Share your creations, ask questions, and engage in discussions about all things LEGO-related.
-
-### 4. Set Valuation
+### 3. Set Valuation
 
 Curious about the value of your LEGO sets? Use our set valuation tool to get estimated market prices based on historical data and current market trends.
 
-### 5. LEGO News and Updates
-
-Stay up-to-date with the latest LEGO news, product releases, and events in the LEGO world with our news section.
-
-### 6. Seller Analytics
+### 4. Seller Analytics
 
 Sellers can access analytics and insights to optimize their listings and pricing strategies, helping them reach a wider audience and maximize their sales potential.
 
