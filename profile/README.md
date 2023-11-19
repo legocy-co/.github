@@ -6,11 +6,7 @@ Welcome to LEGOcy, your one-stop destination for all things LEGO! Whether you're
 ## Table of Contents
 
 - [Features](#features)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
 - [Contributing](#contributing)
-- [Support](#support)
-- [License](#license)
 
 ## Features
 
