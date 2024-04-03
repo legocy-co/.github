@@ -1,4 +1,4 @@
-### **LEGOCY: The Ultimate Web Hub for LEGO Enthusiasts 🚀🌈**
+# **LEGOCY: The Ultimate Web Hub for LEGO Enthusiasts 🚀🌈**
 
 **Overview:**  
 LEGOCY revolutionizes the LEGO enthusiasts' world, providing a comprehensive suite of services designed for the global LEGO community. From casual builders to serious collectors, LEGOCY brings LEGO lovers closer to their passion. 🎨🔧
